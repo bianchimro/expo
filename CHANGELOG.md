@@ -9,6 +9,7 @@ Package-specific changes not released in any SDK will be added here just before 
 
 - Updated `react-native-shared-element` from `0.7.0` to `0.8.2`. ([#14245](https://github.com/expo/expo/pull/14245) by [@IjzerenHein](https://github.com/IjzerenHein))
 - Updated `firebase` from `8.2.3` to `8.10.0`. ([#14259](https://github.com/expo/expo/pull/14259) by [@IjzerenHein](https://github.com/IjzerenHein))
+- Updated `react-native-safe-area-context` from `3.2.0` to `3.3.2`. ([#14303](https://github.com/expo/expo/pull/14303) by [@kudo](https://github.com/kudo))
 
 ### 🛠 Breaking changes
 
