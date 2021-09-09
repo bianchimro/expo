@@ -11,10 +11,6 @@ declare const _default: {
      */
     setAnalyticsCollectionEnabled(isEnabled: boolean): Promise<void>;
     /**
-     * https://firebase.google.com/docs/reference/js/firebase.analytics.Analytics#set-current-screen
-     */
-    setCurrentScreen(screenName?: string | undefined, screenClassOverride?: string | undefined): Promise<void>;
-    /**
      * https://firebase.google.com/docs/reference/js/firebase.analytics.Analytics#set-user-id
      */
     setUserId(userId: string | null): Promise<void>;
