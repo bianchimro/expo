@@ -12,6 +12,7 @@ Package-specific changes not released in any SDK will be added here just before 
 - Updated `@react-native-community/netinfo` from `6.0.0` to `6.0.2`. ([#14329](https://github.com/expo/expo/pull/14329) by [@cruzach](https://github.com/cruzach))
 - Updated `react-native-webview` from `11.6.2` to `11.13.0`. ([#14301](https://github.com/expo/expo/pull/14301) by [@kudo](https://github.com/kudo))
 - Updated `react-native-lottie` from `4.0.2` to `4.0.3`. ([#14331](https://github.com/expo/expo/pull/14331) by [@cruzach](https://github.com/cruzach))
+- Updated `@react-native-picker/picker` from `1.6.7` to `2.0.0`. ([#14358](https://github.com/expo/expo/pull/14358) by [@ajsmth](https://github.com/ajsmth))
 
 ### 🛠 Breaking changes
 
