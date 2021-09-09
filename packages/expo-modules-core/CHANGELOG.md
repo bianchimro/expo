@@ -10,6 +10,12 @@
 
 ### 💡 Others
 
+## 0.3.1 — 2021-09-09
+
+### ⚠️ Notices
+
+- The package is now shipped with prebuilt binaries on iOS. You can read more about it on [expo.fyi/prebuilt-modules](https://expo.fyi/prebuilt-modules). ([#14350](https://github.com/expo/expo/pull/14350) by [@kudo](https://github.com/kudo))
+
 ## 0.3.0 — 2021-09-08
 
 ### 🎉 New features
